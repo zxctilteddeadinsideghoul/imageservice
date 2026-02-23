@@ -1,4 +1,4 @@
-# Image Proxy Microservice
+# Aigen Image Proxy Microservice
 
 A minimalist Go microservice that downloads images by URL, stores them on the local filesystem mirroring the original URL path, and serves them back under your own domain.
 
